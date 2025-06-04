@@ -85,6 +85,11 @@ Proceed with cleanup? (y/n): y
 
 ---
 
+## Author
+
+Jeremy Tarkington
+GitHub: [jtarkington-dev](https://github.com/jtarkington-dev)
+
 ## License
 
 This script is open source and free to use or modify as part of the Automation Toolbox.
