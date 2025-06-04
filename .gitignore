@@ -1,0 +1,19 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
+.venv/
+venv/
+
+# Installer files
+installers/
+
+# OS
+.DS_Store
+Thumbs.db
